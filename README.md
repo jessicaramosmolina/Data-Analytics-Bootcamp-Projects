@@ -1,2 +1,2 @@
 # Data-Analytics-Bootcamp-Projects
-This repository is my projects for Data Analytics Bootcamp projects
+This repository is for my projects for Data Analytics Bootcamp projects
